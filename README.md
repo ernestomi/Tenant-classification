@@ -14,7 +14,7 @@ Github has an open issue with rendering .ipynb files, so it may not work for you
 
 # Contributors
 
-The work here has been carried out by __Ernesto Monroy, LiLib Koo, Ollie Mirnezemi and Victor Torrent__
+The work here has been carried out by __Ernesto Monroy, LiLib Koo, Ollie Mirnezemi and Victor Torrent__ as part of an assignment for Imperial Business School
 
 # License
 
