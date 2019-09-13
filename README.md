@@ -9,7 +9,7 @@ This is just an example of how to use Pandas and SciKit learn in a quick classif
 # Viewing the project
 
 Github has an open issue with rendering .ipynb files, so it may not work for you. But dont fear, you can:
- - View the HTML file [here](Tenant_Classification.html)
+ - View the HTML file [here](https://ernestomonroy.github.io/Tenant-classification/)
  - View the iPynb on nbviewer [here](https://nbviewer.jupyter.org/github/ernestomonroy/Tenant-classification/blob/master/Tenant_Classification.ipynb)
 
 # Contributors
